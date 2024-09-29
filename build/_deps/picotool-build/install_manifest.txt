@@ -1,0 +1,5 @@
+/home/max/my_pico/build/_deps/picotool/picotool
+/home/max/my_pico/build/_deps/picotool/picotoolTargets.cmake
+/home/max/my_pico/build/_deps/picotool/picotoolTargets-release.cmake
+/home/max/my_pico/build/_deps/picotool/picotoolConfig.cmake
+/home/max/my_pico/build/_deps/picotool/picotoolConfigVersion.cmake
